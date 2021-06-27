@@ -1,9 +1,12 @@
 # compose_PIP
 packager for openPIP
-@ Docker version 20.10.7, build f0df350
 
-& docker-compose version 1.29.2, build 5becea4c  
+***@** Docker version 20.10.7, build f0df350*
 
+***&** docker-compose version 1.29.2, build 5becea4c*
+
+
+-----------
 1.
 Exec into mysql container running: `docker exec -it <container_name> /bin/bash`
 
@@ -31,4 +34,4 @@ Run:
  
  Ref: https://stackoverflow.com/questions/6072081/symfony2-updating-bootstrap-php-cache 
  
-====
+--------
