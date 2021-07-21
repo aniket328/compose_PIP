@@ -25,6 +25,8 @@ Run:
   - sudo chmod -R 777 web/uploads
  
  Ref: https://stackoverflow.com/questions/20127884/runtimeexception-unable-to-create-the-cache-directory-var-www-sonata-app-cach
+ and,
+ https://askubuntu.com/questions/768791/how-to-remove-files-with-no-permission
 
 ====
 
