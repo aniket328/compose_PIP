@@ -22,6 +22,7 @@ In Case if this error occurs:
 Run:
   - chown -R www-data:www-data app/cache
   - chown -R www-data:www-data app/log
+  - sudo chmod -R 777 web/uploads
  
  Ref: https://stackoverflow.com/questions/20127884/runtimeexception-unable-to-create-the-cache-directory-var-www-sonata-app-cach
 
