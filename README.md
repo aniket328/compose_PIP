@@ -38,3 +38,5 @@ Run:
  Ref: https://stackoverflow.com/questions/6072081/symfony2-updating-bootstrap-php-cache 
  
 --------
+4. If you are having trouble in deleting files from server: deletefilecontroller:
+    make sure you have replaced '\' in path with '/', in ubuntu.
