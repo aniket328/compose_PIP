@@ -17,15 +17,14 @@ SET time_zone = "+00:00";
 /*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
 /*!40101 SET NAMES utf8mb4 */;
 
---
--- Database: `test2`
---
 
--- --------------------------------------------------------
+CREATE DATABASE IF NOT EXISTS huri;
+USE huri;
 
 --
 -- Table structure for table `admin_settings`
 --
+
 
 CREATE TABLE `admin_settings` (
   `id` int(11) NOT NULL,
